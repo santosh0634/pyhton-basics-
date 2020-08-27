@@ -1,0 +1,6 @@
+name=input("enter the name=")
+if name == "santosh":
+    print("hello sir,how are you doing ?")
+    print("good to see you")
+    print("thanks for coming")
+print("have a good day")
