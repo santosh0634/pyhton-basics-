@@ -1,0 +1,9 @@
+x=int(input("enter the value="))
+y=int(input("enter the value="))
+z=int(input("enter the value="))
+if x>y and x>z:
+    print(x,"x is big")
+elif y>z and y>x:
+    print(y,"y is big")
+else:
+    print(z,"z is big")
