@@ -1,0 +1,8 @@
+# finding the big number from the given two numbers
+
+no1=int(input("enter the number _"))
+no2=int(input("enter the number_"))
+if no1>no2:
+    print("the no1 is big")
+else:
+    print("the no2 is big")
