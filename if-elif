@@ -1,0 +1,14 @@
+brand=input("enter the car brand :")
+if brand == "audi":
+    print("this car good for family")
+elif brand == "porsche":
+    print("this car is very nice and costly")
+elif brand == "bmw":
+    print("this car is having good safety measures for customers")
+elif brand == "volvo":
+    print("the logo of the car is wonderful")
+elif brand == "tesla":
+    print("this car runs on electric power")
+else:
+    print("all cars are my favourite")
+print("i love porsche car very much")
