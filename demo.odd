@@ -1,0 +1,7 @@
+#finding an odd number using range function
+
+s=int(input("enter the number="))
+for x in range(s):
+    if(x%2!=0):
+        print(x)
+        
