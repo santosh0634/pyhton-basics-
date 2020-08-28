@@ -1,0 +1,6 @@
+#if want to print for 10 times using a range function
+
+count=1
+for x in range(10):
+    print("python developer",count)
+    count=count+1
