@@ -1,0 +1,8 @@
+#finding a char of a string with index number
+
+
+s=input("enter the string")
+i=0
+for x in s:
+    print("the index position is=",i,"the char is=",x)
+    i=i+1
