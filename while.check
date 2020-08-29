@@ -1,0 +1,6 @@
+# to check the given name is correct or not
+
+name=""
+while name!="santosh":
+    name=input("enter the name")
+print("welcome sir,have a seat")
