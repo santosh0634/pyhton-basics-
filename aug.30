@@ -1,0 +1,6 @@
+# to print 1 to 10 in pyramid pattern form.
+
+for x in range(11):
+    for y in range(1,x+1):
+        print(y,end=" ")
+    print()
