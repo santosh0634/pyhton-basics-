@@ -1,0 +1,6 @@
+x=[10,20,30,40,50]
+print(10 in x)
+print(100 not in x)
+print(20 in x)
+print(30 in x)
+print(20 not in x)
