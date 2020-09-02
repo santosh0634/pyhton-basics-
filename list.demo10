@@ -1,0 +1,6 @@
+list=[10,8,4,2,1]
+list2=["d","c","b","a"]
+list2.sort()
+list.sort()
+print(list2)
+print(list)
