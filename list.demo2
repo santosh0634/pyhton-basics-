@@ -1,0 +1,4 @@
+s="santosh"
+l=list(s)
+print(l)
+print(type(l))
