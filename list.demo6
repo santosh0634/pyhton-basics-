@@ -1,0 +1,8 @@
+list=[]
+print(list)
+list.append("job")
+list.append("marriage with diana")
+list.append("having a family")
+list.append("starting own business")
+list.append("buying a porsche cayenne car")
+print(list)
