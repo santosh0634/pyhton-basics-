@@ -1,0 +1,4 @@
+goal=["job",25000,"marraige with diana","having a family"]
+aim=["buying a porsche cayyene","own business","taking care of family"]
+goal.extend(aim)
+print(goal)
