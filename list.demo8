@@ -1,0 +1,5 @@
+l=[10,20,30,40,60,70]
+print(l)
+l.insert(4,50)
+l.insert(7,100)
+print(l)
