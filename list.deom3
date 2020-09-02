@@ -1,0 +1,6 @@
+#list with split() function
+
+list="i am a python developer"
+i=list.split()
+print(i)
+print(type(i))
