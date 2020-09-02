@@ -1,0 +1,7 @@
+x=[10,20,30,40,50,[60,70]]
+print(x)
+print(type(x))
+print(x[0])
+print(x[5])
+print(x[5][0])
+print(x[5][1])
