@@ -1,0 +1,5 @@
+l=eval(input("enter the list:"))
+print(l)
+print(type(l))# if input[10,20,30,40,50,60]
+#output will be [10,20,30,40,50,60]
+               #<class'list'>   
