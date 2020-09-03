@@ -1,0 +1,7 @@
+#using pop() in list
+x=["job",125000.00,"marriage",100,200,"porsche cayenne","benz",250,675]
+print(x)
+x.pop()
+print(x)
+x.pop()
+print(x)
