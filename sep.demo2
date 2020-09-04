@@ -1,0 +1,8 @@
+no=int(input("enter the number:"))
+
+no=2
+while no <= 20:
+    print(no,end=" ")
+    no+=2
+else:
+    print("\n even no's")
