@@ -1,0 +1,8 @@
+no=int(input("enter the number:"))
+
+no=3
+while no <= 30:
+    print(no,end=" ")
+    no+=2
+else:
+    print("\n odd no's")
