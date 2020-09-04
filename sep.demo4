@@ -1,0 +1,10 @@
+class employee():
+    def assign(self):
+        self.id=1001
+        self.name="vishal"
+    def display(self):
+        print(self.id)
+        print(self.name)
+e1=employee()
+e1.assign()
+e1.display()
