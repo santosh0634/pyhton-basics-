@@ -1,0 +1,7 @@
+no=int(input("enter the number:"))
+
+res=no%9
+if res==0:
+    print(9)
+else:
+    print(res)
