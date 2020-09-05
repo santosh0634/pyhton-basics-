@@ -1,0 +1,7 @@
+t=(10,20,30)
+t1=("ten","twenty","thirty")
+print(t)
+print(t1)
+t2=t+t1
+print(t2)
+print(type(t2))
