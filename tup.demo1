@@ -1,0 +1,6 @@
+l=[10,20,30,405,0]
+print(type(l))
+print(l)
+t=tuple(l)
+print(t)
+print(type(t))
