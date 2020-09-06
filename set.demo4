@@ -1,0 +1,7 @@
+itemset={"kumar","ravi","banana","apple","cherry","orange","santosh"}
+print(itemset)
+itemset.remove("santosh")
+print(itemset)
+print(len(itemset))
+itemset.clear()
+print(itemset)
