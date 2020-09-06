@@ -1,0 +1,7 @@
+dict={1:"job",2:"mumbai",3:"python developer",4:"4+ experience",5:"love"}
+print(dict)
+x=dict.get(3)
+print(x)
+print(dict[3])
+y=dict.get(5)
+print(y)
