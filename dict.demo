@@ -1,0 +1,6 @@
+dict={1:"santosh",2:"job",3:"marriage",4:"porsche cayenne"}
+print(dict)
+print(dict[1])
+print(dict[3])
+print(dict[4])
+print(len(dict))
