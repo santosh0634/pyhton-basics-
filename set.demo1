@@ -1,0 +1,8 @@
+myset={100,"sweetie","benz"}
+myset.add(500000)
+print(myset)
+print(len(myset))
+print("sweetie" in myset)
+myset.update(["love marriage",2500000000,"audi a6"])
+print(myset)
+print(len(myset))
