@@ -1,0 +1,5 @@
+dict={1:"one",2:"two",3:"three"}
+print(dict)
+dict[4]="four"
+dict[5]="five"
+print(dict)
