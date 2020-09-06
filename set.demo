@@ -1,0 +1,7 @@
+set={100,"santosh loves diana","job"}
+print(set)
+set.add("porsche")
+set.update([20,305,5544,89])
+print(set)
+print("santosh loves diana" in set)
+print(len(set))
