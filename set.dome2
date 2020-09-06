@@ -1,0 +1,4 @@
+itemset={"banana","apple","cherry","orange"}
+print(itemset)
+itemset.remove("orange")
+print(itemset)
