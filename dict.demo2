@@ -1,0 +1,3 @@
+dict={1:"santosh",2:"job",3:"marriage",4:"porsche cayenne"}
+for x in dict:
+    print(x)
