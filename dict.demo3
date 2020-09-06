@@ -1,0 +1,7 @@
+dict =	{
+  "brand": "porsche",
+  "model": "cayenne",
+  "year": 2018
+}
+for x in dict.values():
+  print(x)
