@@ -1,0 +1,5 @@
+itemset={"kumar","ravi","banana","apple","cherry","orange"}
+print(itemset)
+itemset.discard("santosh")
+print(itemset)
+print(len(itemset))
