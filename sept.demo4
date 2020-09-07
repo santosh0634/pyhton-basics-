@@ -1,0 +1,8 @@
+a=int(input("enter the number="))
+b=int(input("enter the  number="))
+if a>b:
+  print("python developer")
+  if b>a:
+    print("java developer")
+else:
+  print("software developers")
